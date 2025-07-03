@@ -32,7 +32,7 @@ This **Restaurant Billing System** is a simple Python application built using th
    3. Run the script using the following command:
 
       ```bash
-      python restaurant_billing_system.py
+      python main.py
       ```
    4. The application window will appear on your screen, where you can:
 
